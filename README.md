@@ -1,7 +1,6 @@
 # Разработай 6 проектов на ReactJS (для начинающих)
 
 https://github.com/Archakov06/react-beginner-projects
-
 https://www.youtube.com/watch?v=eS0GL73tkmw&t=5660s
 
 Каждый проект хранится в отдельном компоненте в папке components
